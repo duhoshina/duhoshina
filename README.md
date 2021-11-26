@@ -1,4 +1,6 @@
-### Olá, me chamo Luis Eduardo Hoshina e, atualmente, sou Desenvolvedor Web Frontend!
+### Olá, me chamo Luis Eduardo Hoshina e sou Desenvolvedor Web Frontend!
+
+![GIF](https://media4.giphy.com/media/uWv3uPfWOz088/giphy.gif?cid=ecf05e47comvug2jl7fvd7ymsy76jiepdm3erunndgg718zw&rid=giphy.gif&ct=g)
 
 ## 👦💻 Um pouco sobre mim.
 <div>
