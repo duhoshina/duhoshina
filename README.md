@@ -4,7 +4,7 @@
 
 ## 👦💻 Um pouco sobre mim.
 <div>
-  <p> Atualmente, sou Desenvolvedor Frontend, entusiasta em Desenvolvimento FullStack & Estudante de Ciências da Computação pela Universidade Federal de Ouro Preto. Meu trabalho possui enfâse em desenvolvimentos de websites responsivos, modernos e adaptáveis. Dessa forma, alguns dos meus conhecimentos e estudos são voltados para HTML5, CSS3, JavaScript, jQuery, BootsTrap & React. Porém, possuo conhecimentos prévios em PHP & MySQL.</p>
+  <p> Atualmente, sou Desenvolvedor Frontend, entusiasta em Desenvolvimento FullStack & Estudante de Ciências da Computação pela Universidade Federal de Ouro Preto. Meu trabalho possui enfâse em desenvolvimentos de websites responsivos, modernos e adaptáveis. Dessa forma, alguns dos meus conhecimentos e estudos são voltados para HTML5, CSS3, JavaScript. Porém, possuo conhecimentos prévios em PHP & MySQL.</p>
 </div>
 
 ## 🚀🔥 Minhas Tecnologias
@@ -12,10 +12,8 @@
   <img align="center" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JAVASCRIPT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="BOOTSTRAP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="JQUERY" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="REACT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="PHP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="MYSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="GIT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
