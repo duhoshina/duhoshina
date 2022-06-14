@@ -40,5 +40,4 @@ Descrição | Instituição | Ano | Tipo
 <div align="center">
   <a href="https://github.com/duhoshina">
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=duhoshina&show_icons=true&theme=dark&include_all_commits=true&account_private=true"/>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhoshina&layout=compact&langs_count=7&theme=dark"/>
 </div>
