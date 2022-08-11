@@ -4,7 +4,7 @@
 
 ## 👦💻 Um pouco sobre mim.
 <div>
-  <p> Atualmente, sou Desenvolvedor Frontend, entusiasta em Desenvolvimento FullStack & Estudante de Ciências da Computação pela Universidade Federal de Ouro Preto. Meu trabalho possui enfâse em desenvolvimentos de websites responsivos, modernos e adaptáveis. Dessa forma, alguns dos meus conhecimentos e estudos são voltados para HTML5, CSS3, JavaScript. Porém, possuo conhecimentos prévios em PHP & MySQL.</p>
+  <p>Me chamo Luis Eduardo Hoshina, atualmente sou estudante do curso de Ciências da Computação ministrado pela Universidade Federal de Ouro Preto e trabalho na agência digital Vetrin que oferta websites responsivos e modernos para diversas empresas e profissionais de ramos diversos. Hoje, meus estudos são voltado afim de melhorar meu trabalho como desenvolvedor front-end e ofertar ainda mais qualidade aos futuros clientes.</p>
 </div>
 
 ## 🚀🔥 Minhas Tecnologias
@@ -12,10 +12,13 @@
   <img align="center" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JAVASCRIPT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="JQUERY" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="GIT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="REACTJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="TAILWINDCSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="PHOTOSHOP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="FIGMA" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="GIT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div><br>
 
 ## 🏆 Prêmios, Cursos e Certificações
