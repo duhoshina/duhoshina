@@ -4,7 +4,7 @@
 
 ## 👦💻 Um pouco sobre mim.
 <div>
-  <p>Me chamo Luis Eduardo Hoshina, atualmente sou estudante do curso de Ciências da Computação ministrado pela Universidade Federal de Ouro Preto e trabalho na agência digital Vetrin que oferta websites responsivos e modernos para diversas empresas e profissionais de ramos diversos. Hoje, meus estudos são voltado afim de melhorar meu trabalho como desenvolvedor front-end e ofertar ainda mais qualidade aos futuros clientes.</p>
+  <p>Me chamo Luis Eduardo Hoshina, atualmente sou estudante do curso de Ciências da Computação ministrado pela Universidade Federal de Ouro Preto e fundador da Vetrin</p>
 </div>
 
 ## 🚀🔥 Minhas Tecnologias
