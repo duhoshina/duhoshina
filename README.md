@@ -1,10 +1,10 @@
-### Olá, me chamo Luis Eduardo Hoshina e sou Desenvolvedor Web Frontend!
+### Olá, me chamo Luis Eduardo Hoshina e sou Desenvolvedor Web
 
 ![GIF](https://media4.giphy.com/media/iggT536JzcWrfoAfxi/giphy.gif?cid=790b7611aa9dfd30114303f4cbc92661f44595084e746f16&rid=giphy.gif&ct=g)
 
 ## 👦💻 Um pouco sobre mim.
 <div>
-  <p>Me chamo Luis Eduardo Hoshina, atualmente sou estudante do curso de Ciências da Computação ministrado pela Universidade Federal de Ouro Preto e fundador da Vetrin</p>
+  <p>Me chamo Luis, sou desenvolvedor fullstack ganhando a vida como freelancer integral há 1 ano, pra mim é muito satisfatório solucionar problemas desenvolvendo aplicações completas, amo a sensação de estar construindo novos sistemas funcionais que ajudam realmente alguma área de nossas vidas.. acho top demais!  </p>
 </div>
 
 ## 🚀🔥 Minhas Tecnologias
