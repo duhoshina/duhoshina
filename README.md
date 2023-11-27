@@ -4,7 +4,7 @@
 
 ## 💻 Um pouco sobre mim.
 <div>
-  <p>Me chamo Luis, sou desenvolvedor fullstack ganhando a vida como freelancer integral há 3 anos, pra mim é muito satisfatório solucionar problemas desenvolvendo aplicações completas, amo a sensação de estar construindo novos sistemas funcionais que ajudam realmente alguma área de nossas vidas.. acho top demais!</p>
+  <p>Me chamo Luis, sou desenvolvedor fullstack ganhando a vida como freelancer integral há 3 anos, pra mim é muito satisfatório solucionar problemas desenvolvendo aplicações completas. Amo a sensação de estar construindo novos sistemas funcionais que realmente ajudam alguma área de nossas vidas.. acho top demais!</p>
 </div>
 
 ## 🚀🔥 Minhas Tecnologias
