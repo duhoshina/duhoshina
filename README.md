@@ -2,7 +2,7 @@
 
 ![GIF](https://media4.giphy.com/media/iggT536JzcWrfoAfxi/giphy.gif?cid=790b7611aa9dfd30114303f4cbc92661f44595084e746f16&rid=giphy.gif&ct=g)
 
-## 💻 Um pouco sobre mim.
+## 💻
 <div>
   <p>Me chamo Luis, sou desenvolvedor fullstack ganhando a vida como freelancer integral há 3 anos, pra mim é muito satisfatório solucionar problemas desenvolvendo aplicações completas. Amo a sensação de estar construindo novos sistemas funcionais que realmente ajudam alguma área de nossas vidas.. acho top demais!</p>
 </div>
