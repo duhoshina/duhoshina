@@ -35,19 +35,10 @@ Descrição | Instituição | Ano | Tipo
 --------- | ----------- | --- | ----
 🏅 BOOTCAMP "Web Developer" | Digital Innovation One | 2021 | Certificação
 🏅 Módulo Desenvolvimento Frontend | DevMedia | 2021 | Curso
-
-## Fale Comigo!
 <div>
-  <a href="https://api.whatsapp.com/send?phone=5512981774825&text=Bom%20dia%2C%20Luis!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/duhoshina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="" target="_blank"></a>
-  <a href="" target="_blank"></a>
-  <a href="" target="_blank"></a>
-</div>
-
-## 🧾 Estatísticas GitHub
-<div align="center">
   <a href="https://github.com/duhoshina">
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhoshina&layout=compact&langs_count=7&theme=dark"/>
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=duhoshina&show_icons=true&theme=dark&include_all_commits=true&account_private=true"/>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duhoshina&bg_color=0a0c10&color=dedede&line=00ff4c&point=00d636&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
