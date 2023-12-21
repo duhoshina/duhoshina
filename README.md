@@ -2,8 +2,6 @@
 <div>
   <p>Ex-aluno dedicado do curso de Ciências da Computação ministrado pela Universidade Federal de Ouro Preto. Atualmente, desempenho um papel fundamental como fundador e diretor executivo do NotaMIL, uma startup focada em proporcionar aos estudantes uma experiência aprimorada na preparação de redações para o ENEM.</p>
   <p>Minha trajetória como "Full-stack Developer" se reflete em habilidades abrangentes, desde o front-end até o back-end, com maestria em tecnologias como JavaScript, TypeScript, React, NextJS, Node, SQL e NoSQL. Além disso, destaco-me na criação de experiências de usuário e interfaces eficientes, unindo o melhor de UX & UI.</p>
-  <p>Meus esforços estão centrados em desenvolver uma inteligência artificial dedicada à correção de redações no modelo ENEM. Resultando na criação da startup para capacitar os estudantes, proporcionando uma preparação mais assertiva para o exame e, consequentemente, facilitando o acesso às universidades federais por meio do SiSu.</p>
-  <p>Minha visão empreendedora e habilidades técnicas convergem para impulsionar a NotaMIL como uma referência na interseção entre tecnologia e educação. Ao liderar essa iniciativa, estou comprometido em contribuir significativamente para o avanço da educação e o sucesso dos estudantes, utilizando a inovação como nossa principal ferramenta de transformação.</p>
 </div>
 
 ## 🚀🔥 Minhas Tecnologias
