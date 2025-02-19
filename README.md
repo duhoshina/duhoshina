@@ -4,9 +4,9 @@
   <p property="description">
     <strong property="name">Luis Eduardo Hoshina</strong> é 
     <span property="jobTitle">desenvolvedor de software</span> 
-    com mais de três anos de experiência em Growth e experiência do usuário. Atualmente, trabalha na 
+    com mais de quatro anos de experiência em Growth e experiência do usuário. Atualmente, trabalha na 
     <span property="worksFor" typeof="EducationalOrganization" resource="http://g4educacao.com.br">G4 Educação</span>, 
-    uma instituição dedicada a capacitar profissionais por meio de educação de alta qualidade em tecnologia e negócios. 
+    uma instituição dedicada a capacitar profissionais por meio de educação de alta qualidade em negócios. 
     Além disso, participa ativamente em projetos que envolvem análise de dados e monitoramento de interações, 
     ajudando startups a aprimorar a performance de suas plataformas e entender melhor o comportamento de seus usuários.
   </p>
