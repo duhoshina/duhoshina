@@ -19,11 +19,11 @@ Descrição | Instituição | Ano | Tipo
 🏅 G4 AI Academy | G4 Educação | 2025 | Imersão
 🏅 G4 Marketing e Growth | G4 Educação | 2025 | Imersão
 🏅 G4 Traction | G4 Educação | 2024 | Imersão
-🏅 Analytics Summit 2024 | Métrica Boss | 2024 | Imersão
-🏅 Certificação Profissional Front-End Developer | Meta | 2024 | Certificação
+🏅 Analytics Summit | Métrica Boss | 2024 | Imersão
+🏅 Meta Front-End Developer | Meta | 2024 | Certificação
 🏅 Google Analytics (GA4) | G4 Educação | 2024 | Certificação
-🏅 BOOTCAMP "Web Developer" | Digital Innovation One | 2021 | Certificação
-🏅 Módulo Desenvolvimento Frontend | DevMedia | 2021 | Curso
+🏅 Web Developer | Digital Innovation One | 2021 | Bootcamp
+🏅 Frontend Developer Career | DevMedia | 2021 | Certificação
 
 <div>
   <a href="https://github.com/duhoshina">
