@@ -15,6 +15,7 @@
 
 Descrição | Instituição | Ano | Tipo
 --------- | ----------- | --- | ----
+🏅 Tracking Camp | Métrica Boss | 2025 | Imersão
 🏅 G4 AI Academy | G4 Educação | 2025 | Imersão
 🏅 G4 Marketing e Growth | G4 Educação | 2025 | Imersão
 🏅 G4 Traction | G4 Educação | 2024 | Imersão
