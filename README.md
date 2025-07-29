@@ -4,8 +4,8 @@
   <p property="description">
     <strong property="name">Luis Eduardo Hoshina</strong> é <span property="jobTitle">engenheiro de software</span>  
     especializado em <strong>growth hacking, análise de dados e desenvolvimento front-end</strong>. Trabalha no  
-    <span property="worksFor" typeof="EducationalOrganization" resource="http://g4educacao.com.br">G4 Educação</span>,  
-    com foco em <strong>tracking e na otimização dos produtos digitais</strong>.  
+    <span property="worksFor" typeof="EducationalOrganization" resource="http://reclameaqui.com.br">Reclame AQUI</span>,  
+    com foco em <strong>ads e na otimização dos produtos digitais</strong>.  
     Possui experiência com <strong>JavaScript, TypeScript, Python e C#</strong>. 
     Certificado em <strong>Front-End Development, Google Analytics (GA4) e Growth</strong>, mantém um portfólio online onde compartilha seus projetos e experiências.
   </p>
